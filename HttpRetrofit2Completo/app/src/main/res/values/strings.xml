@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NomeDoSeuApp</string>
+    <string name="consultar_cep">Consultar CEP</string>
+    <string name="cadastrar_cep">Cadastrar CEP</string>
+    <string name="logradouro_hint">Logradouro</string>
+    <string name="bairro_hint">Bairro</string>
+    <string name="cidade_hint">Cidade</string>
+    <string name="uf_hint">UF</string>
+    <string name="no_cep_registered">Nenhum CEP cadastrado</string>
+    <string name="consulta_cep_error">Erro ao consultar o CEP.</string>
+    <string name="process_data_error">Erro ao processar os dados do CEP.</string>
+    <string name="empty_response">Resposta vazia</string>
+    <string name="post">Inserir CEP (post)</string>
+    <string name="get">Consultar CEPs (get)</string>
+    <string name="response">Resposta da Requisição</string>
+    <string name="cep_list">Lista de CEPs</string>
+</resources>
